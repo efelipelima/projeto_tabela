@@ -1,0 +1,36 @@
+table {
+    background-color: red;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    border: 2px solid #ddd;
+    padding: 8px;
+    margin-bottom: 3px;
+    justify-content: center;
+  }
+  
+  body {
+    bac
+    margin-left: 0 auto;
+  }
+  
+form {
+    align-items: center;
+    border: 2px solid #ddd;
+    padding: 8px;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td { 
+    border: 2px solid #ddd;
+    padding: 8px;
+    margin-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: bold 23px;
+    margin-block-end: auto;
+}
